@@ -1,0 +1,15 @@
+03 - 29 - 2019:
+============
+
+Hey Arron and Dr. Law, I made a little GitHub repo to manage this project a little easier. If you could send me an updated version
+of this file once you're done on Friday that would be great. Also, arron, if you could send me the original un-combined schematic
+of Section C if you still have it,  that would be great.
+
+As far as the board layout goes, everything is finished. I had to lay small traces on top because I couldn't move the test points to
+the bottom of the board. It should be fine but maybe y'all can ask Avery if you get a minute. The ground plane was made and the
+number of resistors has been appropriately minimized.
+
+Let me know if you don't like the team name. I thought it was funny since I made that mistake with your last name.
+
+The only thing really left to do as far as design goes is to find out what the values of the resistors attached to the DIP switch block
+are going to be. If y'all could figure that out and email it back to me as an excel workbook, I'll throw it in the repo.
